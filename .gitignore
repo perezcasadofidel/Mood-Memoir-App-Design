@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.cache/
+.env*
+.vite/
+*.tsbuildinfo
+logs/
+*.log
+.agents
+.claude
+AGENTS.md
+CLAUDE.md
+planAccion.md
